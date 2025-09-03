@@ -5,7 +5,7 @@ Este projeto implementa uma simulação de rede social utilizando o __padrão Ob
 ***
 # 🏗️ Estrutura do Projeto
 
-![Estrutura do projeto](img/redesocial/estrutura.png)
+![Estrutura do projeto](redesocial/img/estrutura.png)
 
 ***
 
@@ -49,7 +49,7 @@ O projeto implementa consistentemente o padrão Observer com os seguintes compon
 ***
 # 📝 Exemplo de Saída
 
-![Exemplo de saída](img/redesocial/exemploSaida.png)
+![Exemplo de saída](redesocial/img/exemploSaida.png)
 
 ***
 
